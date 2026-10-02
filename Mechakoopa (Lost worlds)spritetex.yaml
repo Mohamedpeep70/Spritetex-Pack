@@ -1,0 +1,5 @@
+- name: TEX_MechaKoopa
+  type: branch_insn
+  branch_type: bl
+  src_addr_pal: 0x80a643c0
+  target_func: 'TEX_MechaKoopa'
