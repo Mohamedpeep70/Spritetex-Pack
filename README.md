@@ -1,9 +1,7 @@
 # Spritetex-Pack
 A pack for Custom SpriterRecolors for NewerSMBW
 
-Do not use a lot of them at once, otherwise the game would crash due to low memory, and make sure you dont pull a newer,
-and make sure to give sprites recolors your actually going to use
-(also if ur wondering what does "pulling a newer"
- is, it means making pointless recolors that waste ram and then proceed to never use them)
+Do not use a lot of them at once, otherwise the game would crash due to low memory, and make sure you dont pull a newer
+by making a lot of pointless recolors that waste ram and procedd to never use them
 
 You guys should also try to join and add your custom Spritetex Codes!, or just any custom spritetex code and make sure you credit whoever made it
