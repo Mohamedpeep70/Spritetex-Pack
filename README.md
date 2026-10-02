@@ -6,4 +6,4 @@ and make sure to give sprites recolors your actually going to use
 (also if ur wondering what does "pulling a newer"
  is, it means making pointless recolors that waste ram and then proceed to never use them)
 
-You guys should also try to join and add your custom Spritetex Codes!
+You guys should also try to join and add your custom Spritetex Codes!, or just any custom spritetex code and make sure you credit whoever made it
